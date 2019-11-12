@@ -5,4 +5,4 @@ Hello!
 newSwitch
 On-Off Images!
 
-![sw2](https://user-images.githubusercontent.com/54255017/68633235-6dfda880-0534-11ea-8214-dafa118795c7.PNG)
+![Untitled-1](https://user-images.githubusercontent.com/54255017/68633294-b5843480-0534-11ea-8541-18f8aafe22dc.png)
